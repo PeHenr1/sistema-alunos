@@ -8,7 +8,7 @@ header {
     font-size: 2.55rem;
     font-family: 'Notable';
     text-align: center;
-    color: red;
+    color: #1447b6;
 }
 
 .navegacao {
@@ -28,7 +28,7 @@ header {
 }
 
 .navegacao a:hover {
-    color: #b61414; 
+    color: #1447b6; 
 }
 
 h1{
